@@ -24,7 +24,7 @@ Working on creating Open Source Packages for Python
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pranava-ba&theme=dark&show_icons=true&locale=en&layout=compact" alt="Pranava's Top Languages" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pranava-ba&langs_count=11&theme=dark&show_icons=true&locale=en&layout=compact" alt="Pranava's Top Languages" width="400" />
   <a href="https://leetcode.com/va_codes">
     <img src="https://leetcard.jacoblin.cool/va_codes?ext=contest&theme=dark" alt="Pranava's LeetCode Stats" width="400" />
   </a>
