@@ -5,7 +5,7 @@ Working on creating Open Source Packages for Python
 - 🌱 I'm currently learning CPP, Java and Python
 - 👯 I'm looking to collaborate on AI/ML projects
 - 📫 How to reach me :
-<br /> [<img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" />](https://leetcode.com/va_codes) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/pranava-ba/)
+<br /> [<img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" />](https://leetcode.com/va_codes) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/pranava-ba-aa61a4306/)
 
 
 ### I code in
