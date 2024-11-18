@@ -17,8 +17,20 @@ Working on creating Open Source Packages for Python
 ### 💻 Workspace Spec
 <img height="30" src="https://img.shields.io/badge/AMD-Ryzen_7_7435HS-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/NVIDIA-RTX4060-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
 
-![Pranava's GitHub stats](https://github-readme-stats.vercel.app/api?username=pranava-ba&theme=dark&show_icons=true&&hide=issues,contribs)
+### My Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pranava-ba&theme=dark&show_icons=true&include_all_commits=true&count_private=true&show=stars,commits,prs,issues,contribs" alt="Pranava's GitHub Stats" width="400" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranava-ba&theme=dark" alt="Pranava's GitHub Streak Stats" width="400" />
+</p>
 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/va_codes?ext=contest&theme=dark)](https://leetcode.com/va_codes)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pranava-ba&theme=dark&show_icons=true&locale=en&layout=compact" alt="Pranava's Top Languages" width="400" />
+  <a href="https://leetcode.com/va_codes">
+    <img src="https://leetcard.jacoblin.cool/va_codes?ext=contest&theme=dark" alt="Pranava's LeetCode Stats" width="400" />
+  </a>
+</p>
 
-[![Pranava's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=pranava-ba&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pranava-ba&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true" alt="Pranava's GitHub Activity Graph" width="800" />
+</p>
+
