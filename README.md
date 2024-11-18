@@ -1,3 +1,5 @@
+<div style="background-color: #BEBEBE; padding: 20px;">
+
 <h1 align="center">Hi 👋, I'm BA Pranava</h1>
 <h3 align="center">A passionate AI/ML Open Source developer from India</h3>
 
@@ -19,3 +21,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pranava-ba&show_icons=true&locale=en" alt="pranava-ba" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pranava-ba&" alt="pranava-ba" /></p>
+</div>
