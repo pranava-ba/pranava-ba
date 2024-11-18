@@ -12,7 +12,7 @@ Working on creating Open Source Packages for Python
 <img height="60" width="60" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="60" width="60" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="60" width="60" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /> <img height="60" width="60" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="60" width="60" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
 
 ### IDE and Tools I Use
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/clion.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/intellij-idea.png"/> <img height="50" width="50" src="https://img.icons8.com/doodle/48/000000/adobe-photoshop.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/filmora.png"/> <img height="50" width="50" src="https://img.icons8.com/fluency/48/000000/rstudio.png"/>
+<img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/> <img height="50" width="50" src="https://img.icons8.com/ios-filled/50/000000/clion.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/intellij-idea.png"/> <img height="50" width="50" src="https://img.icons8.com/doodle/48/000000/adobe-photoshop.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/filmora.png"/> <img height="50" width="50" src="https://img.icons8.com/fluency/48/000000/rstudio.png"/>
 
 
 ### 💻 Workspace Spec
