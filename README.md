@@ -9,7 +9,10 @@ Working on creating Open Source Packages for Python
 
 
 ### I code in
-<img height="60" width="60" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="60" width="60" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="60" width="60" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /> <img height="60" width="60" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="60" width="60" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
+<img height="60" width="60" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="60" width="60" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="60" width="60" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /> <a href="https://www.r-project.org/">
+  <img height="60" width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/120px-R_logo.svg.png" alt="R Project Logo" />
+</a>
+ <img height="60" width="60" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="60" width="60" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
 
 ### IDE and Tools I Use
 <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/> <img height="50" width="50" src="https://resources.jetbrains.com/storage/products/clion/img/meta/clion_logo_300x300.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/intellij-idea.png"/> <img height="50" width="50" src="https://img.icons8.com/fluency/48/000000/rstudio.png"/> <img height="50" width="50" src="https://img.icons8.com/doodle/48/000000/adobe-photoshop.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/filmora.png"/> 
