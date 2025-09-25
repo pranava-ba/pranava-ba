@@ -1,39 +1,85 @@
-## Hi there !!! 👋 I am BA Pranava
+# 👋 Hi, I'm BA Pranava  
+### Open-Source Developer | Statistical Computing & ML Enthusiast
 
-Working on creating Open Source Packages for Python
+I build **reproducible, well-documented tools** for data science and machine learning—primarily in Python, with a growing focus on functional paradigms in Haskell.
 
-- 🌱 I'm currently learning CPP, Java and Python
-- 👯 I'm looking to collaborate on AI/ML projects
-- 📫 How to reach me :
-<br /> [<img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" />](https://leetcode.com/va_codes) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/pranava-ba-aa61a4306/)
+- 🌱 Deepening my expertise in **Haskell** and the **scientific Python ecosystem**
+- 🤝 Actively seeking **collaborations on AI/ML, data science, and open-source projects**
+- 📦 Developing and maintaining **open-source Python packages**
+- 📫 Connect with me:  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranava-ba-aa61a4306/)
 
+---
 
-### I code in
-<img height="60" width="60" src="https://img.icons8.com/color/48/000000/python.png" /> <img height="60" width="60" src="https://img.icons8.com/color/48/000000/c-programming.png" /> <img height="60" width="60" src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" /> <a href="https://www.r-project.org/">
-  <img height="60" width="60" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/120px-R_logo.svg.png" alt="R Project Logo" />
-</a>
- <img height="60" width="60" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="60" width="60" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/>
+## 🧠 Languages & Tools
 
-### IDE and Tools I Use
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/> <img height="50" width="50" src="https://resources.jetbrains.com/storage/products/clion/img/meta/clion_logo_300x300.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/intellij-idea.png"/> <img height="50" width="50" src="https://img.icons8.com/fluency/48/000000/rstudio.png"/> <img height="50" width="50" src="https://img.icons8.com/doodle/48/000000/adobe-photoshop.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/filmora.png"/> 
+<table>
+  <tr>
+    <td valign="middle" align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="36" height="36" alt="Python"/></td>
+    <td valign="middle"><strong>Python</strong> – Statistical modeling, ML, and open-source package development.</td>
+  </tr>
+  <tr>
+    <td valign="middle" align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg" width="36" height="36" alt="Haskell"/></td>
+    <td valign="middle"><strong>Haskell</strong> – Functional programming, type-safe declarative pipelines.</td>
+  </tr>
+  <tr>
+    <td valign="middle" align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="36" height="36" alt="TensorFlow"/></td>
+    <td valign="middle"><strong>TensorFlow</strong> – Deep learning model building and deployment.</td>
+  </tr>
+  <tr>
+    <td valign="middle" align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="36" height="36" alt="Power BI"/></td>
+    <td valign="middle"><strong>Power BI</strong> – Dashboards and business data storytelling.</td>
+  </tr>
+  <tr>
+    <td valign="middle" align="center"><img src="https://www.ub.ruhr-uni-bochum.de/files/unibibliothek-bochum-template/img/logos-icons/latex-hummingbird.svg" width="48" height="48" alt="LaTeX"/></td>
+    <td valign="middle"><strong>LaTeX</strong> – Academic writing and reproducible documentation.</td>
+  </tr>
+  <tr>
+    <td valign="middle" align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="36" height="36" alt="Markdown"/></td>
+    <td valign="middle"><strong>Markdown</strong> – Clean docs and structured READMEs.</td>
+  </tr>
+  <tr>
+    <td valign="middle" align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="36" height="36" alt="Jupyter"/></td>
+    <td valign="middle"><strong>Jupyter</strong> – Interactive notebooks for prototyping and tutorials.</td>
+  </tr>
+</table>
 
-### 💻 Workspace Spec
-<img height="30" src="https://img.shields.io/badge/AMD-Ryzen_7_7435HS-ED1C24?style=for-the-badge&logo=amd&logoColor=white"/> <img height="30" src="https://img.shields.io/badge/NVIDIA-RTX4060-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
+---
 
-### My Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pranava-ba&theme=dark&show_icons=true&include_all_commits=true&count_private=true&show=stars,commits,prs,issues,contribs" alt="Pranava's GitHub Stats" width="400" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranava-ba&theme=dark" alt="Pranava's GitHub Streak Stats" width="400" />
-</p>
+## 🖥️ Development Environment
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pranava-ba&langs_count=11&theme=dark&show_icons=true&locale=en&layout=compact" alt="Pranava's Top Languages" width="400" />
-  <a href="https://leetcode.com/va_codes">
-    <img src="https://leetcard.jacoblin.cool/va_codes?ext=contest&theme=dark" alt="Pranava's LeetCode Stats" width="400" />
-  </a>
-</p>
+Fluent across **Linux (Arch, Ubuntu)** and **Windows**, ensuring reproducibility everywhere.
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pranava-ba&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true" alt="Pranava's GitHub Activity Graph" width="800" />
-</p>
+### Operating Systems
 
+<table>
+  <tr>
+    <td valign="middle" align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg" width="36" height="36" alt="Arch Linux"/></td>
+    <td valign="middle"><strong>Arch Linux</strong> – Daily driver: minimal, rolling-release, fully customized.</td>
+  </tr>
+  <tr>
+    <td valign="middle" align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-original.svg" width="36" height="36" alt="Ubuntu"/></td>
+    <td valign="middle"><strong>Ubuntu</strong> – Deployment and compatibility testing.</td>
+  </tr>
+  <tr>
+    <td valign="middle" align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" width="36" height="36" alt="Windows"/></td>
+    <td valign="middle"><strong>Windows</strong> – Cross-platform testing and client workflows.</td>
+  </tr>
+</table>
+
+### Editors & Tools
+
+<table>
+  <tr>
+    <td valign="middle" align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neovim/neovim-original.svg" width="36" height="36" alt="Neovim"/></td>
+    <td valign="middle"><strong>Neovim</strong> – Terminal-native editing and scripting.</td>
+  </tr>
+  <tr>
+    <td valign="middle" align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="36" height="36" alt="VS Code"/></td>
+    <td valign="middle"><strong>VS Code</strong> – Lightweight IDE for Python and notebooks.</td>
+  </tr>
+  <tr>
+    <td valign="middle" align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" width="36" height="36" alt="PyCharm"/></td>
+    <td valign="middle"><strong>PyCharm</strong> – Full-featured IDE for large Python projects.</td>
+  </tr>
+</table>
