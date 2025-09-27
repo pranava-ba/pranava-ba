@@ -1,5 +1,5 @@
 # 👋 Hi, I'm BA Pranava  
-### Open-Source Developer | Statistical Computing & ML Enthusiast
+### Open-Source Developer | Statistical Computing & ML 
 
 I build **reproducible, well-documented tools** for data science and machine learning—primarily in Python, with a growing focus on functional paradigms in Haskell.
 
@@ -20,7 +20,7 @@ I build **reproducible, well-documented tools** for data science and machine lea
   </tr>
   <tr>
     <td valign="middle" align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg" width="36" height="36" alt="Haskell"/></td>
-    <td valign="middle"><strong>Haskell</strong> – Functional programming, type-safe declarative pipelines.</td>
+    <td valign="middle"><strong>Haskell</strong> – Functional programming beginner.</td>
   </tr>
   <tr>
     <td valign="middle" align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="36" height="36" alt="TensorFlow"/></td>
@@ -32,15 +32,15 @@ I build **reproducible, well-documented tools** for data science and machine lea
   </tr>
   <tr>
     <td valign="middle" align="center"><img src="https://www.ub.ruhr-uni-bochum.de/files/unibibliothek-bochum-template/img/logos-icons/latex-hummingbird.svg" width="48" height="48" alt="LaTeX"/></td>
-    <td valign="middle"><strong>LaTeX</strong> – Academic writing and reproducible documentation.</td>
+    <td valign="middle"><strong>LaTeX</strong> – Academic writing, research and documentation.</td>
   </tr>
   <tr>
     <td valign="middle" align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="36" height="36" alt="Markdown"/></td>
-    <td valign="middle"><strong>Markdown</strong> – Clean docs and structured READMEs.</td>
+    <td valign="middle"><strong>Markdown</strong> – Clean documentation for GitHUB.</td>
   </tr>
   <tr>
     <td valign="middle" align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="36" height="36" alt="Jupyter"/></td>
-    <td valign="middle"><strong>Jupyter</strong> – Interactive notebooks for prototyping and tutorials.</td>
+    <td valign="middle"><strong>Jupyter</strong> – Interactive notebooks for prototyping, tutorials and collaborations.</td>
   </tr>
 </table>
 
@@ -55,15 +55,15 @@ Fluent across **Linux (Arch, Ubuntu)** and **Windows**, ensuring reproducibility
 <table>
   <tr>
     <td valign="middle" align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg" width="36" height="36" alt="Arch Linux"/></td>
-    <td valign="middle"><strong>Arch Linux</strong> – Daily driver: minimal, rolling-release, fully customized.</td>
+    <td valign="middle"><strong>Arch Linux</strong> – Aiming to fully rice it using Hyprland.</td>
   </tr>
   <tr>
     <td valign="middle" align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-original.svg" width="36" height="36" alt="Ubuntu"/></td>
-    <td valign="middle"><strong>Ubuntu</strong> – Deployment and compatibility testing.</td>
+    <td valign="middle"><strong>Ubuntu</strong> – Comfortable with bash, and the UNIX file structure.</td>
   </tr>
   <tr>
     <td valign="middle" align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" width="36" height="36" alt="Windows"/></td>
-    <td valign="middle"><strong>Windows</strong> – Cross-platform testing and client workflows.</td>
+    <td valign="middle"><strong>Windows</strong> – Proficient with batch files.</td>
   </tr>
 </table>
 
@@ -72,14 +72,14 @@ Fluent across **Linux (Arch, Ubuntu)** and **Windows**, ensuring reproducibility
 <table>
   <tr>
     <td valign="middle" align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neovim/neovim-original.svg" width="36" height="36" alt="Neovim"/></td>
-    <td valign="middle"><strong>Neovim</strong> – Terminal-native editing and scripting.</td>
+    <td valign="middle"><strong>Neovim</strong> – Beginner, learning to use the keyboard to it's real potential.</td>
   </tr>
   <tr>
     <td valign="middle" align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="36" height="36" alt="VS Code"/></td>
-    <td valign="middle"><strong>VS Code</strong> – Lightweight IDE for Python and notebooks.</td>
+    <td valign="middle"><strong>VS Code</strong> – Proficient.</td>
   </tr>
   <tr>
     <td valign="middle" align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" width="36" height="36" alt="PyCharm"/></td>
-    <td valign="middle"><strong>PyCharm</strong> – Full-featured IDE for large Python projects.</td>
+    <td valign="middle"><strong>PyCharm</strong> – Current use.</td>
   </tr>
 </table>
