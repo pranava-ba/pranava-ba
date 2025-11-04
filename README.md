@@ -83,3 +83,8 @@ Fluent across **Linux (Arch, Ubuntu)** and **Windows**, ensuring reproducibility
     <td valign="middle"><strong>PyCharm</strong> – Current use.</td>
   </tr>
 </table>
+
+---
+
+### Additional Information
+[My Portfolio](https://pranavaportfolio-builder.lovable.app)
