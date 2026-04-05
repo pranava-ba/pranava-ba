@@ -1,90 +1,62 @@
-# 👋 Hi, I'm BA Pranava  
-### Open-Source Developer | Statistical Computing & ML 
+<div align="center">
 
-I build **reproducible, well-documented tools** for data science and machine learning—primarily in Python, with a growing focus on functional paradigms in Haskell.
+# BA Pranava
 
-- 🌱 Deepening my expertise in **Haskell** and the **scientific Python ecosystem**
-- 🤝 Actively seeking **collaborations on AI/ML, data science, and open-source projects**
-- 📦 Developing and maintaining **open-source Python packages**
-- 📫 Connect with me:  
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranava-ba-aa61a4306/)
+**Probability · Information Theory · Quantitative Finance**
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pranava-ba-aa61a4306/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://pranavaportfolio-builder.lovable.app)
+[![GitHub](https://img.shields.io/badge/GitHub-pranava--ba-181717?style=for-the-badge&logo=github)](https://github.com/pranava-ba)
 
-## 🧠 Languages & Tools
-
-<table>
-  <tr>
-    <td valign="middle" align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="36" height="36" alt="Python"/></td>
-    <td valign="middle"><strong>Python</strong> – Statistical modeling, ML, and open-source package development.</td>
-  </tr>
-  <tr>
-    <td valign="middle" align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg" width="36" height="36" alt="Haskell"/></td>
-    <td valign="middle"><strong>Haskell</strong> – Functional programming beginner.</td>
-  </tr>
-  <tr>
-    <td valign="middle" align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="36" height="36" alt="TensorFlow"/></td>
-    <td valign="middle"><strong>TensorFlow</strong> – Deep learning model building and deployment.</td>
-  </tr>
-  <tr>
-    <td valign="middle" align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="36" height="36" alt="Power BI"/></td>
-    <td valign="middle"><strong>Power BI</strong> – Dashboards and business data storytelling.</td>
-  </tr>
-  <tr>
-    <td valign="middle" align="center"><img src="https://www.ub.ruhr-uni-bochum.de/files/unibibliothek-bochum-template/img/logos-icons/latex-hummingbird.svg" width="48" height="48" alt="LaTeX"/></td>
-    <td valign="middle"><strong>LaTeX</strong> – Academic writing, research and documentation.</td>
-  </tr>
-  <tr>
-    <td valign="middle" align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="36" height="36" alt="Markdown"/></td>
-    <td valign="middle"><strong>Markdown</strong> – Clean documentation for GitHUB.</td>
-  </tr>
-  <tr>
-    <td valign="middle" align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="36" height="36" alt="Jupyter"/></td>
-    <td valign="middle"><strong>Jupyter</strong> – Interactive notebooks for prototyping, tutorials and collaborations.</td>
-  </tr>
-</table>
+</div>
 
 ---
 
-## 🖥️ Development Environment
+## About
 
-Fluent across **Linux (Arch, Ubuntu)** and **Windows**, ensuring reproducibility everywhere.
+I study AI/ML from the ground up — starting from measure-theoretic probability and working outward into information theory, statistical learning, and quantitative finance. My interest isn't in applying off-the-shelf models; it's in understanding the mathematical substrate that makes them work (or fail).
 
-### Operating Systems
+Currently moving through **Feller's Probability** as a rigorous foundation before **Heard on the Street**, and working through **Polyanskiy & Wu's Information Theory** in parallel — because compression, inference, and generalisation are, at some level, the same problem.
 
-<table>
-  <tr>
-    <td valign="middle" align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/archlinux/archlinux-original.svg" width="36" height="36" alt="Arch Linux"/></td>
-    <td valign="middle"><strong>Arch Linux</strong> – Aiming to fully rice it using Hyprland.</td>
-  </tr>
-  <tr>
-    <td valign="middle" align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-original.svg" width="36" height="36" alt="Ubuntu"/></td>
-    <td valign="middle"><strong>Ubuntu</strong> – Comfortable with bash, and the UNIX file structure.</td>
-  </tr>
-  <tr>
-    <td valign="middle" align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/windows8/windows8-original.svg" width="36" height="36" alt="Windows"/></td>
-    <td valign="middle"><strong>Windows</strong> – Proficient with batch files.</td>
-  </tr>
-</table>
-
-### Editors & Tools
-
-<table>
-  <tr>
-    <td valign="middle" align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neovim/neovim-original.svg" width="36" height="36" alt="Neovim"/></td>
-    <td valign="middle"><strong>Neovim</strong> – Beginner, learning to use the keyboard to it's real potential.</td>
-  </tr>
-  <tr>
-    <td valign="middle" align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="36" height="36" alt="VS Code"/></td>
-    <td valign="middle"><strong>VS Code</strong> – Proficient.</td>
-  </tr>
-  <tr>
-    <td valign="middle" align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" width="36" height="36" alt="PyCharm"/></td>
-    <td valign="middle"><strong>PyCharm</strong> – Current use.</td>
-  </tr>
-</table>
+On the applied side, I build and ship real tools: a production-grade NSE equity analytics desktop app, and an actively maintained 120-day quant curriculum.
 
 ---
 
-### Additional Information
-[My Portfolio](https://pranavaportfolio-builder.lovable.app)
+## What I'm Reading
+
+| Book | Author | Why |
+|---|---|---|
+| *An Introduction to Probability Theory and Its Applications* | William Feller | Rigorous combinatorial & analytic probability; prerequisite to Heard on the Street |
+| *Information Theory* (lecture notes) | Yury Polyanskiy & Yihong Wu | Channel capacity, hypothesis testing, lossy compression — from first principles |
+| *Stochastic Calculus for Finance I & II* | Steven Shreve | Martingales, Brownian motion, Black-Scholes via measure theory |
+| *Algorithmic Trading* | Ernest Chan | Mean reversion, momentum, execution — systematic strategies |
+
+---
+
+## Projects
+
+### 📊 Bullseye Fintech — NSE EOD Dashboard
+> *A production Streamlit desktop app for end-of-day NSE equity analysis*
+
+Built with Polars for vectorised, out-of-core data processing. Features parallel downloads with retry/backoff, atomic writes, Camarilla pivot levels, multi-symbol comparison, and light/dark theming with full BaseWeb CSS coverage. Packaged as a Windows installer via PyInstaller + Inno Setup.
+
+`Python` `Polars` `Streamlit` `Plotly` `PyInstaller` `Inno Setup`
+
+---
+
+### 📚 quant
+> *120-day structured self-study roadmap targeting top proprietary trading firms*
+
+Covers stochastic calculus, time-series econometrics, portfolio optimisation, market microstructure, and ML for finance — with reading lists, problem sets, and implementation exercises.
+
+`Quant Finance` `Stochastic Calculus` `Statistical Learning` `Python`
+
+---
+
+
+<div align="center">
+
+*Probability is the language of uncertainty.*  
+*Learning to speak it fluently is the prerequisite for everything else.*
+
+</div>
