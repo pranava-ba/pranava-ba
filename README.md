@@ -53,11 +53,11 @@ Covers stochastic calculus, time-series econometrics, portfolio optimisation, ma
 
 ---
 
-### GitHub Pages
-> click me[https://pranava-ba.github.io]
----
-
+### 🌐 GitHub Pages  
+[![Live Site](https://img.shields.io/badge/Visit-Website-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://pranava-ba.github.io)
 <div align="center">
+
+---
 
 *Probability is the language of uncertainty.*  
 *Learning to speak it fluently is the prerequisite for everything else.*
