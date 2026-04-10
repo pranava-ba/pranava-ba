@@ -53,6 +53,9 @@ Covers stochastic calculus, time-series econometrics, portfolio optimisation, ma
 
 ---
 
+### GitHub Pages
+> click me[https://pranava-ba.github.io]
+---
 
 <div align="center">
 
