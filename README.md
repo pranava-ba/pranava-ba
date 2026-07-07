@@ -16,7 +16,7 @@
 
 I study AI/ML from the ground up, starting from probability and working outward into information theory, statistical learning, and quantitative finance. My interest isn't in applying off-the-shelf models; it's in understanding the mathematical substrate that makes them work (or fail), and I work on the application of information-theoretic frameworks—such as entropy, mutual information, and coding theory—to financial markets and decision systems.
 
-Currently moving through **Feller's Probability** as a rigorous foundation before **Heard on the Street**, and working through **Polyanskiy & Wu's Information Theory** in parallel.
+Currently moving through **Feller's Probability** as a rigorous foundation before **Heard on the Street**, and working through **Polyanskiy & Wu's Information Theory** in parallel, referring **Stefan Moser's Lecture Notes**.
 
 I build and ship real tools,having currently made a production-grade NSE equity analytics desktop app.
 
